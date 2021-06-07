@@ -1,8 +1,9 @@
-function Home() 
+function Home()
 {
-    return (
+    return 
+    (
         <div>
-            <h4>Hello World!</h4>
+            <h4>Hello World: Amazing Page!</h4>
         </div>
     )
 }
